@@ -3,7 +3,7 @@ title: mijproject
 tagline: a web
 url: https://mijproject.github.io/web
 paginate: 1
-baseurl: ""
+baseurl: "/web"
 permalink: pretty
 
 # Gems
