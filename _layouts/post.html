@@ -8,6 +8,8 @@ layout: default
   {{ content }}
 </article>
 
+{% comment %}
+// prefer to not render related post
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Related posts</h3>
@@ -23,3 +25,4 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+{% end comment %}
