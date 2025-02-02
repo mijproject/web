@@ -1,7 +1,7 @@
 # Setup
 title: mijproject
 tagline: a web
-url: https://mijproject.github.io/web
+url: https://mijproject.github.io
 paginate: 2
 baseurl: "/web"
 permalink: pretty
