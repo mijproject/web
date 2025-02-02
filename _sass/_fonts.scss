@@ -1,23 +1,7 @@
 // Webfonts
 //
 // Self-hosting webfonts using @font-face rule
-/*
-@font-face {
-  font-family: "IBMPlexSans";
-  src: url("assets/IBMPlexSans-Text.woff2") format("woff2");
-  font-weight: 450;
-  font-style: normal;
-  font-display: swap;
-}
 
-@font-face {
-  font-family: "IBMPlexSans";
-  src: url("assets/IBMPlexSans-TextItalic.woff2") format("woff2");
-  font-weight: 450;
-  font-style: italic;
-  font-display: swap;
-}
-*/
 @font-face {
   font-family: "IBMPlexSans";
   src: url("assets/IBMPlexSans-Regular.woff2") format("woff2");
