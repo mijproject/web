@@ -33,10 +33,11 @@
 
 // Post list
 .post-list {
-  margin-bottom: var(--spacer-2);
+  margin-bottom: var(--spacer-3);
 }
 
 .post-list-item {
+  margin-top: var(--spacer);
   border-bottom: 1px solid var(--border-color);
 
   &:last-child {
