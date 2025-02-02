@@ -37,8 +37,8 @@
 }
 
 .post-list-item {
-  margin-top: var(--spacer);
   border-bottom: 1px solid var(--border-color);
+  padding-top: var(--spacer);
 
   &:last-child {
     border-bottom: none;
