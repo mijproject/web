@@ -31,6 +31,19 @@
   }
 }
 
+// Post list
+.post-list {
+  margin-bottom: 0;
+}
+
+.post-list-item {
+  border-bottom: 1px solid var(--border-color);
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
 // Meta data line below post title
 .post-date {
   display: block;
