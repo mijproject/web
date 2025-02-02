@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<div class="posts post-list">
   {% for post in paginator.posts %}
-  <article class="post">
+  <article class="post post-list-item">
     <h1 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
