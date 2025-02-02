@@ -40,6 +40,10 @@
   border-bottom: 1px solid var(--border-color);
   padding-top: var(--spacer);
 
+  &:first-child {
+    padding-top: 0;
+  }
+  
   &:last-child {
     border-bottom: none;
   }
