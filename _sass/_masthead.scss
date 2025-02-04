@@ -6,9 +6,9 @@
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
-  //border: solid var(--border-color);
-  //border-width: 0 0 1px;
-  border-bottom: solid 1px currentColor;
+  border: solid currentColor;
+  border-width: 0 0 1px;
+  //border-bottom: solid 1px currentColor;
 }
 
 .masthead-title {
