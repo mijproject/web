@@ -55,6 +55,7 @@ a.pagination-item:hover {
 
 // Custom pagination
 .pagination {
+  display: flex;
   margin: var(--spacer-3) 0;
   color: var(--gray-500);
   text-align: center;
