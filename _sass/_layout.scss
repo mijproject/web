@@ -13,6 +13,10 @@
 footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
-  border: 0;
+}
+
+.footer {
+  padding-top: var(--spacer);
+  padding-bottom: var(--spacer);
   border-block-start: .25rem solid var(--border-color);
 }
