@@ -10,13 +10,17 @@
   margin-right: auto;
 }
 
+/*
 footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
 }
+*/
 
 .footer {
-  padding-top: var(--spacer);
-  padding-bottom: var(--spacer);
+  margin-block-start: var(--spacer-3);
+  margin-block-end: var(--spacer-3);
+  padding-block-start: var(--spacer);
+  padding-block-end: var(--spacer);
   border-block-start: .25rem solid var(--border-color);
 }
