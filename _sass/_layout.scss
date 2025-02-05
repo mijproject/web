@@ -11,6 +11,7 @@
 }
 
 footer {
-  margin-top: var(--spacer-3);
-  margin-bottom: var(--spacer-3);
+  margin-top: var(--spacer);
+  margin-bottom: var(--spacer);
+  border-block-start: .25rem solid var(--border-color);
 }
